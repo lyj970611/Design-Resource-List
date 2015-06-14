@@ -63,6 +63,17 @@ https://notepad-plus-plus.org/
 http://getfirebug.com/
 
 
+###Free hosting:
+- OpenShift - Develop, host, and scale apps in the cloud. Maintained by Red Hat.  Uses AWS as a backend.
+https://www.openshift.com/
+- Github Pages - Websites for you and your projects.
+https://pages.github.com/
+- Taiga.io - Free project management hosting on par with Jira for opensource.
+https://taiga.io/
+- BitBucket - Free hosting of private repositories with 5 team members or under.
+https://bitbucket.org
+
+
 ###Misc:
 - Section Separators - A collection of assorted section separators
 http://tympanus.net/codrops/2013/10/03/a-collection-of-separator-styles/
